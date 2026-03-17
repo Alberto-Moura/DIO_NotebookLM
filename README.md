@@ -9,7 +9,6 @@ A proposta foi ir além de apenas ler conteúdos. Busquei aprender de forma prá
 ## Objetivo
 
 O objetivo principal foi entender como funciona a análise de cesta de compras e como ela pode ser aplicada no varejo.
-
 Durante o processo, também foquei em:
 - Melhorar a forma de fazer perguntas para IA  
 - Validar informações com diferentes fontes  
@@ -18,8 +17,6 @@ Durante o processo, também foquei em:
 ## Fontes utilizadas
 
 Para construir o material, utilizei algumas fontes confiáveis:
-
-- Livro sobre Data Mining  
 - Artigos sobre Market Basket Analysis  
 - Documentação da biblioteca `mlxtend` (Python)  
 - Conteúdos técnicos de Data Science  
@@ -28,7 +25,6 @@ Para construir o material, utilizei algumas fontes confiáveis:
 ## Uso da IA e testes de prompts
 
 Uma parte importante do projeto foi testar diferentes formas de fazer perguntas.
-
 Alguns exemplos:
 "Explique o algoritmo Apriori de forma simples
 Como aplicar Market Basket Analysis no varejo?
